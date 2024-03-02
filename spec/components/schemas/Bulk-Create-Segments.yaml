@@ -1,8 +1,0 @@
-title: Bulk Create Segments
-type: object
-properties:
-  segments:
-    type: array
-    maxItems: 2000
-    items:
-      $ref: "./Create-Segment.yaml"

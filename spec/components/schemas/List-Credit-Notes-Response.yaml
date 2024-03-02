@@ -1,9 +1,0 @@
-title: List Credit Notes Response
-type: object
-properties:
-  credit_notes:
-    type: array
-    items:
-      $ref: "./Credit-Note.yaml"
-required:
-  - credit_notes

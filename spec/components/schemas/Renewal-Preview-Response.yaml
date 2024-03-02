@@ -1,7 +1,0 @@
-title: Renewal Preview Response
-type: object
-properties:
-  renewal_preview:
-    $ref: "./Renewal-Preview.yaml"
-required:
-  - renewal_preview

@@ -1,7 +1,0 @@
-title: Component Response
-type: object
-properties:
-  component:
-    $ref: "./Component.yaml"
-required:
-  - component

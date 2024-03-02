@@ -1,7 +1,0 @@
-title: Create Reason Code Request
-type: object
-properties:
-  reason_code:
-    $ref: "./Create-Reason-Code.yaml"
-required:
-  - reason_code

@@ -1,7 +1,0 @@
-title: Service Credit Response
-type: object
-properties:
-  service_credit:
-    $ref: "./Service-Credit.yaml"
-required:
-  - service_credit

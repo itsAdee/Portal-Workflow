@@ -1,8 +1,0 @@
-title: Void Invoice
-type: object
-properties:
-  reason:
-    type: string
-    minLength: 1
-required:
-  - reason

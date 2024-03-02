@@ -1,5 +1,0 @@
-title: Error Array Map Response
-type: object
-properties:
-  errors:
-    $ref: "./Error-Array-Map.yaml"

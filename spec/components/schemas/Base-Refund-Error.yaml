@@ -1,7 +1,0 @@
-title: Base Refund Error
-type: object
-properties:
-  base:
-    type: array
-    items:
-      type: object

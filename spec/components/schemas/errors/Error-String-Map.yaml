@@ -1,4 +1,0 @@
-title: Error String Map
-type: object
-additionalProperties:
-  type: string

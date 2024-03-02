@@ -1,5 +1,0 @@
-title: Custom Field Owner
-type: string
-enum:
-  - Customer
-  - Subscription

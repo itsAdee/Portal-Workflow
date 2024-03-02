@@ -1,7 +1,0 @@
-title: Allocation Preview Response
-type: object
-properties:
-  allocation_preview:
-    $ref: "./Allocation-Preview.yaml"
-required:
-  - allocation_preview

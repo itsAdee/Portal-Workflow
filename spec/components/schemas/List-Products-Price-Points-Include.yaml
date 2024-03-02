@@ -1,5 +1,0 @@
-title: List Products Price Points Include
-type: string
-enum:
-  - currency_prices
-example: currency_prices

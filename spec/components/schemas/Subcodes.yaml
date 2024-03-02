@@ -1,7 +1,0 @@
-title: Coupon Subcodes
-type: object
-properties:
-  codes:
-    type: array
-    items:
-      type: string

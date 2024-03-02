@@ -1,3 +1,0 @@
-title: Change Invoice Status Event Data
-type: object
-description: Example schema for an `change_invoice_status` event

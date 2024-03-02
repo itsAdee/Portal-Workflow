@@ -1,7 +1,0 @@
-title: Invoice Response
-type: object
-properties:
-  invoice:
-    $ref: "./Invoice.yaml"
-required:
-  - invoice

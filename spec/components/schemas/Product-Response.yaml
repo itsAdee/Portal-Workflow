@@ -1,7 +1,0 @@
-title: Product Response
-type: object
-properties:
-  product:
-    $ref: "./Product.yaml"
-required:
-  - product

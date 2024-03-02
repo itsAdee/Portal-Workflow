@@ -1,7 +1,0 @@
-title: Prepaid Configuration Response
-type: object
-properties:
-  prepaid_configuration:
-    $ref: "./Prepaid-Configuration.yaml"
-required:
-  - prepaid_configuration

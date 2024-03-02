@@ -1,5 +1,0 @@
-title: Referral Validation Response
-type: object
-properties:
-  referral_code:
-    $ref: "./Referral-Code.yaml"

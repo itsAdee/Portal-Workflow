@@ -1,5 +1,0 @@
-title: Refund Prepayment Aggregated Error
-type: object
-properties:
-  refund:
-    $ref: "./Refund-Prepayment-Error.yaml"

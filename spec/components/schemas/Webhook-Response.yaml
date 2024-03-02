@@ -1,5 +1,0 @@
-title: Webhook Response
-type: object
-properties:
-  webhook:
-    $ref: "./Webhook.yaml"

@@ -1,7 +1,0 @@
-title: Update Customer Request
-type: object
-properties:
-  customer:
-    $ref: "./Update-Customer.yaml"
-required:
-  - customer

@@ -1,7 +1,0 @@
-title: Reactivate Subscription Group Request
-type: object
-properties:
-  resume:
-    type: boolean
-  resume_members:
-    type: boolean

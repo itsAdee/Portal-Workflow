@@ -1,7 +1,0 @@
-title: Create Prepayment Request
-type: object
-properties:
-  prepayment:
-    $ref: "./Create-Prepayment.yaml"
-required:
-  - prepayment

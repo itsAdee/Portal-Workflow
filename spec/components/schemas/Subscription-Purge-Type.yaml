@@ -1,5 +1,0 @@
-title: Subscription Purge Type
-type: string
-enum:
-  - customer
-  - payment_profile

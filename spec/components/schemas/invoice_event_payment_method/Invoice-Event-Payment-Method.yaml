@@ -1,8 +1,0 @@
-title: Invoice Event Payment Method
-type: string
-enum:
-  - apple_pay
-  - bank_account
-  - credit_card
-  - external
-  - paypal_account

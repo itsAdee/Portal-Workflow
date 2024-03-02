@@ -1,7 +1,0 @@
-title: Subscription Component Allocation Error Item
-type: object
-properties:
-  kind:
-    type: string
-  message:
-    type: string

@@ -1,7 +1,0 @@
-title: Customer Changes Preview Response
-type: object
-properties:
-  changes:
-    $ref: "./Customer-Changes-Preview.yaml"
-required:
-  - changes

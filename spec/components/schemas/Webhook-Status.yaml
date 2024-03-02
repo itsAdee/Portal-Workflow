@@ -1,7 +1,0 @@
-title: Webhook Status
-type: string
-enum:
-  - successful
-  - failed
-  - pending
-  - paused

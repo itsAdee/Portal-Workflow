@@ -1,7 +1,0 @@
-title: Create Multi Invoice Payment Request
-type: object
-properties:
-  payment:
-    $ref: "./Create-Multi-Invoice-Payment.yaml"
-required:
-  - payment

@@ -1,9 +1,0 @@
-title: Sale Rep Item Mrr
-type: object
-properties:
-  mrr:
-    type: string
-  usage:
-    type: string
-  recurring:
-    type: string

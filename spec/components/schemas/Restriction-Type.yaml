@@ -1,5 +1,0 @@
-title: Restriction Type
-type: string
-enum:
-  - Component
-  - Product

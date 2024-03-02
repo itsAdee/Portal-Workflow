@@ -1,8 +1,0 @@
-title: Tax Configuration Kind
-type: string
-default: custom
-enum:
-  - custom
-  - managed avalara
-  - linked avalara
-  - digital river

@@ -1,7 +1,0 @@
-title: Currency Price Role
-type: string
-description: Role for the price.
-enum:
-  - baseline
-  - trial
-  - initial

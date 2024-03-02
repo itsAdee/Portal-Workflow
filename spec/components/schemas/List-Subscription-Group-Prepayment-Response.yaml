@@ -1,9 +1,0 @@
-title: List Subscription Group Prepayment Response
-type: object
-properties:
-  prepayments:
-    type: array
-    items:
-      $ref: "./List-Subscription-Group-Prepayment.yaml"
-required:
-  - prepayments

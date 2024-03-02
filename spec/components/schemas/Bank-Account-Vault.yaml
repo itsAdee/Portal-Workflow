@@ -1,9 +1,0 @@
-title: Bank Account Vault
-type: string
-description: The vault that stores the payment profile with the provided vault_token.
-enum:
-  - bogus
-  - authorizenet
-  - stripe_connect
-  - braintree_blue
-  - gocardless

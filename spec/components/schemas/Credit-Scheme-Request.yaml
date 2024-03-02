@@ -1,7 +1,0 @@
-title: Credit Scheme Request
-type: object
-properties:
-  credit_scheme:
-    $ref: "./Credit-Scheme.yaml"
-required:
-  - credit_scheme

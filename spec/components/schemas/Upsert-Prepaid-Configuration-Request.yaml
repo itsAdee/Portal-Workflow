@@ -1,7 +1,0 @@
-title: Upsert Prepaid Configuration Request
-type: object
-properties:
-  prepaid_configuration:
-    $ref: "./Upsert-Prepaid-Configuration.yaml"
-required:
-  - prepaid_configuration

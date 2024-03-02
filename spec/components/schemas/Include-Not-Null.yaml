@@ -1,6 +1,0 @@
-title: Include Not Null
-description: Passed as a parameter to list methods to return only non null values.
-type: string
-enum:
-  - not_null
-example: not_null

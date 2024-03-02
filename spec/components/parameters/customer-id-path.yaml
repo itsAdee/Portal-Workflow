@@ -1,6 +1,0 @@
-name: customer_id
-in: path
-description: The Chargify id of the customer
-schema:
-  type: integer
-required: true

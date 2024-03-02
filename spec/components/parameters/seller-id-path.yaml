@@ -1,6 +1,0 @@
-name: seller_id
-in: path
-required: true
-schema:
-  type: string
-description: The Chargify id of your seller account

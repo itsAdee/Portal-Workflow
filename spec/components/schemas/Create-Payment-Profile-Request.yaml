@@ -1,7 +1,0 @@
-title: Create Payment Profile Request
-type: object
-properties:
-  payment_profile:
-    $ref: "./Create-Payment-Profile.yaml"
-required:
-  - payment_profile

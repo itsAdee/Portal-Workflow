@@ -1,7 +1,0 @@
-title: Update Segment Request
-type: object
-properties:
-  segment:
-    $ref: "./Update-Segment.yaml"
-required:
-  - segment

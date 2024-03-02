@@ -1,5 +1,0 @@
-title: List Components Price Points Include
-type: string
-enum:
-  - currency_prices
-example: currency_prices

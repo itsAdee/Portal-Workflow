@@ -1,7 +1,0 @@
-title: Subscription Group Prepayment Request
-type: object
-properties:
-  prepayment:
-    $ref: "./Subscription-Group-Prepayment.yaml"
-required:
-  - prepayment

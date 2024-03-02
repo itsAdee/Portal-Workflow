@@ -1,6 +1,0 @@
-title: Credit Note Status
-type: string
-enum:
-  - open
-  - applied
-description: "Current status of the credit note."

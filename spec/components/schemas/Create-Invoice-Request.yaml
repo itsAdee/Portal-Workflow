@@ -1,7 +1,0 @@
-title: Create Invoice Request
-type: object
-properties:
-  invoice:
-    $ref: "./Create-Invoice.yaml"
-required:
-  - invoice

@@ -1,3 +1,0 @@
-title: Create Credit Note Event Data
-type: object
-description: Example schema for an `change_chargeback_status` event

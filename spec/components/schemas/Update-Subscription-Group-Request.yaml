@@ -1,7 +1,0 @@
-title: Update Subscription Group Request
-type: object
-properties:
-  subscription_group:
-    $ref: "./Update-Subscription-Group.yaml"
-required:
-  - subscription_group

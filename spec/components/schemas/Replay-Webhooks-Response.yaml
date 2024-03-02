@@ -1,5 +1,0 @@
-title: Replay Webhooks Response
-type: object
-properties:
-  status:
-    type: string

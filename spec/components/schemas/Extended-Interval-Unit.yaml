@@ -1,6 +1,0 @@
-title: Extended Interval Unit
-type: string
-enum:
-  - day
-  - month
-  - never

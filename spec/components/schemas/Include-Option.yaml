@@ -1,8 +1,0 @@
-title: Include Option
-type: string
-enum:
-  - "0"
-  - "1"
-x-enum-elements:
-  - name: Exclude
-  - name: Include

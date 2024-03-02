@@ -1,6 +1,0 @@
-schema:
-  type: integer
-  default: 100
-in: query
-name: per_page
-description: This parameter indicates how many records to fetch in each request. Default value is 100.

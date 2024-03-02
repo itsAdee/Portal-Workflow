@@ -1,6 +1,0 @@
-title: Credit Scheme
-type: string
-enum:
-  - none
-  - credit
-  - refund

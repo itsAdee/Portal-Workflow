@@ -1,7 +1,0 @@
-title: Subscription Product Migration Request
-type: object
-properties:
-  migration:
-    $ref: "./Subscription-Product-Migration.yaml"
-required:
-  - migration

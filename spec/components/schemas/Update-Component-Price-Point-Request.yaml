@@ -1,5 +1,0 @@
-title: Update Component Price Point Request
-type: object
-properties:
-  price_point:
-    $ref: "./Update-Component-Price-Point.yaml"

@@ -1,9 +1,0 @@
-title: Create Currency Prices Request
-type: object
-properties:
-  currency_prices:
-    type: array
-    items:
-      $ref: "./Create-Currency-Price.yaml"
-required:
-  - currency_prices

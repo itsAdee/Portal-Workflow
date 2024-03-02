@@ -1,4 +1,0 @@
-title: Subscription List Include
-type: string
-enum:
-  - self_service_page_token

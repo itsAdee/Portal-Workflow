@@ -1,5 +1,0 @@
-title: Cancel Grouped Subscriptions Request
-type: object
-properties:
-  charge_unbilled_usage:
-    type: boolean

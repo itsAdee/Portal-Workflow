@@ -1,7 +1,0 @@
-title: Bulk Create Product Price Points Response
-type: object
-properties:
-  price_points:
-    type: array
-    items:
-      $ref: "./Product-Price-Point.yaml"

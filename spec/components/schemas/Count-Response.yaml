@@ -1,5 +1,0 @@
-title: Count Response
-type: object
-properties:
-  count:
-    type: integer

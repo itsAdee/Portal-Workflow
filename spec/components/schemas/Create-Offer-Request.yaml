@@ -1,7 +1,0 @@
-title: Create Offer Request
-type: object
-properties:
-  offer:
-    $ref: "./Create-Offer.yaml"
-required:
-  - offer

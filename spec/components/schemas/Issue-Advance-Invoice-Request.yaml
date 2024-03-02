@@ -1,8 +1,0 @@
-title: Issue Advance Invoice Request
-type: object
-properties:
-  force:
-    type: boolean
-x-examples:
-  example-1:
-    force: true

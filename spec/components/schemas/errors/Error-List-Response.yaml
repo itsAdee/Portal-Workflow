@@ -1,8 +1,0 @@
-title: Error List Response
-type: object
-description: Error which contains list of messages.
-properties:
-  errors:
-    $ref: "./Error-Array-Response.yaml"
-required:
-  - errors

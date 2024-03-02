@@ -1,5 +1,0 @@
-title: List Products Include
-type: string
-enum:
-  - prepaid_product_price_point
-example: prepaid_product_price_point

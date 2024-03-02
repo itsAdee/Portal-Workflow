@@ -1,9 +1,0 @@
-title: Apply Debit Note Event
-allOf:
-  - $ref: "./Base-Invoice-Event.yaml"
-  - type: object
-    properties:
-      event_data:
-        $ref: "./Apply-Debit-Note-Event-Data.yaml"
-    required:
-      - event_data

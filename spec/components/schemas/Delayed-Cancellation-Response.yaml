@@ -1,5 +1,0 @@
-title: Delayed Cancellation Response
-type: object
-properties:
-  message:
-    type: string

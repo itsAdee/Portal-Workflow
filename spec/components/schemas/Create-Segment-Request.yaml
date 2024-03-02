@@ -1,7 +1,0 @@
-title: Create Segment Request
-type: object
-properties:
-  segment:
-    $ref: "./Create-Segment.yaml"
-required:
-  - segment

@@ -1,7 +1,0 @@
-title: Create Metadata
-type: object
-properties:
-  name:
-    type: string
-  value:
-    type: string

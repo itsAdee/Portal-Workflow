@@ -1,7 +1,0 @@
-title: Component PricePoint Error
-type: object
-properties:
-  errors:
-    type: array
-    items:
-      $ref: "./Component-PricePoint-Error-Item.yaml"

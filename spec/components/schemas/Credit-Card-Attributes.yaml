@@ -1,9 +1,0 @@
-title: Credit Card Attributes
-type: object
-properties:
-  full_number:
-    type: string
-  expiration_month:
-    type: string
-  expiration_year:
-    type: string
