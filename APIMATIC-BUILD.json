@@ -2,11 +2,12 @@
     "$schema": "https://titan.apimatic.io/api/build/schema",
     "buildFileVersion": "1",
     "generatePortal": {
+        "tailIncludes":"<script defer src='./static/guided-walkthrough-scripts/product-details-overview-walkthrough.js'></script><script>document.addEventListener('DOMContentLoaded', (event) => {APIMaticDevPortal.ready(({ registerWorkflow }) => {registerWorkflow( 'page:product-details-overview/guided-walkthroughs/walkthrough-1', 'Adding Product Details', ProductDetailsOverview);</script><script>document.addEventListener('DOMContentLoaded', (event) => {APIMaticDevPortal.ready(({ registerWorkflow }) => {registerWorkflow( 'page:product-details-overview/guided-walkthroughs/walkthrough-1', 'Adding Product Details', ProductDetailsOverview); });});</script>",
         "debug": {
             "publishReport": true
         },
-        "pageTitle": "My Portal Title",
-        "navTitle": "My Navigation Title",
+        "pageTitle": "Maxio API Portal",
+        "navTitle": "Check out our APIs",
         "logoUrl": "static/images/logo.png",
         "logoLink": "https://www.apimatic.io",
         "languageConfig": {
