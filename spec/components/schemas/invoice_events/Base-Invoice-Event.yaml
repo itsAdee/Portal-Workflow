@@ -1,0 +1,16 @@
+title: Base Invoice Event
+type: object
+properties:
+  id:
+    type: integer
+  event_type:
+    $ref: "../Invoice-Event-Type.yaml"
+  timestamp:
+    type: string
+  invoice:
+    $ref: "../Invoice.yaml"
+required:
+  - id
+  - event_type
+  - timestamp
+  - invoice

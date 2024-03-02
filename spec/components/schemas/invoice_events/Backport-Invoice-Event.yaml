@@ -1,0 +1,9 @@
+title: Backport Invoice Event
+allOf:
+  - $ref: "./Base-Invoice-Event.yaml"
+  - type: object
+    properties:
+      event_data:
+        $ref: "./Backport-Invoice-Event-Data.yaml"
+    required:
+      - event_data

@@ -1,0 +1,10 @@
+title: Change Chargeback Status Event
+type: object
+allOf:
+  - $ref: "./Base-Invoice-Event.yaml"
+  - type: object
+    properties:
+      event_data:
+        $ref: "./Change-Chargeback-Status-Event-Data.yaml"
+    required:
+      - event_data

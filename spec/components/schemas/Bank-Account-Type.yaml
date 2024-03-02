@@ -1,0 +1,7 @@
+title: Bank Account Type
+type: string
+description: Defaults to checking
+enum:
+  - checking
+  - savings
+default: checking

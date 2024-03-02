@@ -1,0 +1,3 @@
+title: Backport Invoice Event Data
+type: object
+description: Example schema for an `backport_invoice` event

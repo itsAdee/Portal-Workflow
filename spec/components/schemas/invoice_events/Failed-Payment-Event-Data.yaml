@@ -1,0 +1,3 @@
+title: Failed Payment Event Data
+type: object
+description: Example schema for an `failed_payment` event

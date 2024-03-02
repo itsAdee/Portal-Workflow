@@ -1,0 +1,18 @@
+title: Invoice Event Type
+type: string
+description: Invoice Event Type
+enum:
+  - apply_credit_note
+  - apply_debit_note
+  - apply_payment
+  - backport_invoice
+  - change_chargeback_status
+  - change_invoice_collection_method
+  - change_invoice_status
+  - create_credit_note
+  - failed_payment
+  - issue_invoice
+  - refund_invoice
+  - remove_payment
+  - void_invoice
+  - void_remainder

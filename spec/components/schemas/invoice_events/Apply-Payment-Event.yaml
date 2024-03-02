@@ -1,0 +1,9 @@
+title: Apply Payment Event
+allOf:
+  - $ref: "./Base-Invoice-Event.yaml"
+  - type: object
+    properties:
+      event_data:
+        $ref: "./Apply-Payment-Event-Data.yaml"
+    required:
+      - event_data
