@@ -2,14 +2,15 @@
     "$schema": "https://titan.apimatic.io/api/build/schema",
     "buildFileVersion": "1",
     "generatePortal": {
-        "tailIncludes":"<script defer src='./static/guided-walkthrough-scripts/product-details-overview-walkthrough.js'></script><script>document.addEventListener('DOMContentLoaded', (event) => {APIMaticDevPortal.ready(({ registerWorkflow }) => {registerWorkflow( 'page:product-details-overview/guided-walkthroughs/walkthrough-1', 'Adding Product Details', ProductDetailsOverview);</script><script>document.addEventListener('DOMContentLoaded', (event) => {APIMaticDevPortal.ready(({ registerWorkflow }) => {registerWorkflow( 'page:product-details-overview/guided-walkthroughs/walkthrough-1', 'Adding Product Details', ProductDetailsOverview); });});</script>",
+        "tailIncludes":"<script defer src='./static/guided-walkthrough-scripts/SelfServiceBillingPortal.js'></script><script defer src='./static/guided-walkthrough-scripts/SiteActivityTracking.js'></script><script defer src='./static/guided-walkthrough-scripts/SubscriptionManagement.js'></script><script>document.addEventListener('DOMContentLoaded', (event) => {APIMaticDevPortal.ready(({ registerWorkflow }) => {registerWorkflow( 'page:AccessToSelfServiceBillingPortal/guided-walkthroughs/walkthrough-1', 'Billing Walkthrough',SelfServiceBillingPortal); registerWorkflow( 'page:SiteActivityTracking/guided-walkthroughs/walkthrough-1', 'Site Tracking Walkthrough',SiteActivityTracking); registerWorkflow( 'page:SubscriptionManagement/guided-walkthroughs/walkthrough-1', 'Subscription Management Walkthrough',SubscriptionManagment); });});</script>",
         "debug": {
             "publishReport": true
         },
-        "pageTitle": "Maxio API Portal",
-        "navTitle": "Check out our APIs",
-        "logoUrl": "static/images/logo.png",
-        "logoLink": "https://www.apimatic.io",
+        "pageTitle": "Docs",
+        "navTitle": "Maxio Advanced Billing formerly Chargify Developer Portal",
+        "faviconUrl": "static/images/favicon.png",
+        "logoUrl": "static/images/maxio-logo-black.svg",
+        "logoLink": "https://developers.maxio.com/",
         "languageConfig": {
             "http": {},
             "java": {
